@@ -12,6 +12,15 @@ In terms of complexity the entity matching and integration algorithm is constant
 in the number of entities to be integrated, i.e. it is O(n). 
 It makes use of very efficient data structures (hash tables) and runs entirely on RAM memory.
 
+This program is free software: you can redistribute it and/or modify it under 
+the terms of the GNU General Public License as published by the Free Software Foundation, 
+either version 3 of the License, or (at your option) any later version. 
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details. Please always cite in your 
+code information about the original author: 
+Vincenzo Maltese (vincenzo.maltese@unitn.it), University of Trento, Italy.
+
 Selected papers:
 Maltese, V., & Giunchiglia, F. (2017). Foundations of Digital Universities. 
 Cataloging & Classification Quarterly, 55(1), 26-50. http://dx.doi.org/10.1080/01639374.2016.1245231 
