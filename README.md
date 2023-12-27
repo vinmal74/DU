@@ -22,6 +22,7 @@ code information about the original author:
 Vincenzo Maltese (vincenzo.maltese@unitn.it), University of Trento, Italy.
 
 Selected papers:
+
 Maltese, V., & Giunchiglia, F. (2017). Foundations of Digital Universities. 
 Cataloging & Classification Quarterly, 55(1), 26-50. http://dx.doi.org/10.1080/01639374.2016.1245231 
 
