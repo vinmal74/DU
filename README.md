@@ -1,0 +1,21 @@
+THE DIGITAL UNIVERSITY OPEN SOURCE CODE
+
+We provide the complete code of a simple and very efficient framework 
+that can be employed by organizations to develop their own knowledge graph, 
+offering a comprehensive picture of the strategic data of the organization, 
+such that it can be consistently exploited by different digital services.
+It is released as an Eclipse Java project.
+
+It supports data engineers in the creation of a multilingual knowledge graph 
+that is built from data extracted from multiple sources by means of ETL facilities. 
+In terms of complexity the entity matching and integration algorithm is constant 
+in the number of entities to be integrated, i.e. it is O(n). 
+It makes use of very efficient data structures (hash tables) and runs entirely on RAM memory.
+
+Selected papers:
+Maltese, V., & Giunchiglia, F. (2017). Foundations of Digital Universities. 
+Cataloging & Classification Quarterly, 55(1), 26-50. http://dx.doi.org/10.1080/01639374.2016.1245231 
+
+Maltese, V (2018). Digital transformation challenges for universities: 
+Ensuring information consistency across digital services. 
+Cataloging & Classification Quarterly, 56, 592-606. http://dx.doi.org/10.1080/01639374.2018.1504847 
