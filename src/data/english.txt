@@ -1,0 +1,167 @@
+118		| person					| a human being
+90013	| male						| (gender) being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation
+90019	| female					| (gender) being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop
+52974	| rector					| (role) the head of a university
+118274	| vice-rector 				| (role) a person appointed to represent or act on behalf of the rector in an important academic area
+118275	| rector’s delegate			| (role) a person appointed to represent or act on behalf of the rector in a specific academic area
+53485	| director					| (role) the person in charge of managing a department or directorate, project, or production
+118272	| deputy director			| (role) the person appointed to represent or act on behalf of the director
+56251	| president					| (role) primary leader of a firm or corporation
+57945	| vice-president			| (role) the person appointed to represent or act on behalf of the president
+37		| member					| (role) one of the persons who compose a social group
+118270	| institutional agent		| (role) a representative of an institution
+53487	| doyen						| (role) the senior member of a group
+54485	| head						| (role) a person who is in charge to manage a unit
+118271	| deputy head				| (role) the person appointed to represent or act on behalf of the head
+54235	| director general			| (role) the highest ranking manager
+53589	| managing director			| (role) someone who controls resources and expenditures
+53282	| coordinator				| (role) the person responsible for coordinating the activities
+118273	| deputy coordinator		| (role) the person appointed to represent or act on behalf of the coordinator
+56850	| secretary					| (role) a person who keeps records, takes notes and handles general clerical work
+52406	| assistant					| (role) a person who contributes to the fulfillment of a need or furtherance of an effort or purpose
+118260	| teaching assistant		| (role) an assistant assigned to teaching support activities
+52183	| affiliate					| (role) a subordinate or subsidiary associate
+53826	| enrollee					| (role) a person who enrolls in (or is enrolled in) a class or course of study
+57580	| teaching fellow			| (role) a person whose occupation is teaching
+56316	| professor					| (role) an academic member of a university
+54173	| full professor			| (role) a professor of first rank in a university
+52409	| associate professor		| (role) a professor of second rank in a university
+118253	| extraordinary professor	| (role) a professor without chair or being subordinated to a professor with chair
+118254	| adjunct professor			| (role) a professor with a limited involvement in time or in academic activities
+53787	| emeritus professor		| (role) an honorary professor who has retired
+118256	| teaching fellow			| (role) a professor hired for a limited time period
+57983	| visiting professor		| (role) a professor visiting another university to teach or conduct research for a limited time
+56569	| researcher				| (role) a person who conducts research activities
+118258	| research fellow			| (role) a researcher hired for a limited time period
+118259	| tenure-track researcher	| (role) a researcher who after a certain period can aspire to a fixed-term position
+118261	| PhD student				| (role) a student who is enrolled in a doctorate school
+118266	| senior staff				| (role) the people of the organization that have management responsibilities
+118264	| staff						| (role) the people of the organization that are responsible of the administrative and technical tasks
+52406	| assistant					| (role) a person who contributes to the fulfillment of a need or furtherance of an effort or purpose
+53137	| collaborator				| (role) a person who works with others towards a common goal
+118257	| linguistic expert			| (role) an expert collaborator, often a native speaker, involved in teaching a foreign language
+54404	| guest						| (role) a person visiting for a limited period of time
+52176	| consultant				| (role) an expert who gives advice
+118268	| tutor						| (role) an assistant guiding young students
+118269	| collaborator student		| (role) a student who has been awarded a collaboration grant to support university services
+118267	| intern					| (role) a person who is carring out an interniship
+57408	| student					| (role) a learner who is enrolled in an educational institution
+118262	| former student			| (role) a person who was enrolled in a course of study
+55044	| alumnus					| (role) a person who has received a degree
+118263	| PhD						| (role) a person who holds a doctorate degree
+120004	| honorary professor		| (role) a title of professor given to eminent personalities of the institutional, economic and cultural world
+43544	| organization				| a group of people who work together
+44834	| university				| an educational institution of higher education and research which grants academic degrees in a variety of subjects and provides both undergraduate education and postgraduate education
+44331	| administrative unit		| an organization regarded as part of a larger social group
+45010	| statutory body			| an institutional unit defined by the statute
+45016	| governing board			| a board that manages the affairs of an institution
+118249	| supporting board			| a board that supports the governing body of an institution
+118252	| rectorate					| the administrative unit of a university or school headed by a rector
+118251	| directorate				| an administrative unit headed by a director
+44452	| division					| an administrative unit of second level in government or business
+45084	| office					| an administrative unit of basic level in government or business
+45017	| secretariat				| an administrative unit responsible for maintaining records and other secretarial duties
+43989	| academic department		| a division of a university or school that works for the realization of scientific and educational disciplinary goals and is characterized by an adequate level of homogeneity of themes and methods adopted
+118250	| academic center			| a division of a university or school that works to the launch of new initiatives based on educational and research projects in non-homogeneous scientific areas
+22482	| research facility			| a center where research is done
+43691	| institution				| an organization founded and united for a specific purpose
+44811	| graduate school			| a tertiary school in a university or independent offering study leading to degrees beyond the bachelor's degree
+35792	| degree program			| a course of study leading to an academic degree
+43725	| company					| a commercial or industrial enterprise and the people who constitute it
+4553	| course					| education imparted in a series of lessons or meetings
+4100	| project					| any piece of work that is undertaken or attempted
+118277	| submitted					| refered for judgment or consideration
+118278	| reviewed					| appraised critically
+87325	| pending					| awaiting conclusion or confirmation
+81614	| rejected					| judged unacceptable
+87876	| funded					| furnished with funds
+87877	| unfunded					| not furnished with funds
+84659	| accomplished				| successfully completed or brought to an end
+34396	| thesis					| a treatise advancing a new point of view resulting from research
+120013	| bachelor's thesis			| a thesis hand in at the end of your bachelor's programme
+120014	| master's thesis			| a thesis hand in at the end of your master's programme
+120015	| doctoral thesis			| a thesis hand in at the end of a doctoral programme
+120016	| diploma thesis			| a thesis hand in at the end of a diploma course or a postgraduate school
+16921	| creative work				| an artifact that has been brought into existence by someone
+34408	| book						| (creative work) a written work or composition that has been published (printed on pages bound together)
+34764	| bibliography				| (creative work) a list of writings with time and place of publication
+34439	| catalogue					| (creative work) a book or pamphlet containing an enumeration of things
+34858 	| entry						| (creative work) an item inserted in a written record
+34309	| section					| (creative work) a self-contained part of a larger composition (written or musical)
+34322	| chapter					| (creative work) a subdivision of a written work
+118238	| journal paper				| (creative work) a paper published in a journal
+118239	| conference paper			| (creative work) a paper presented at a conference and published in a proceedings
+118240	| poster paper				| (creative work) a short paper presented at a conference as a poster
+118349	| extended abstract			| (creative work) a short, lightly reviewed article that is usually presented with a short talk at a scientific conference
+34845	| patent					| (creative work) a document granting an inventor sole rights to an invention
+21771	| architectural plan		| (creative work) scale drawing of a structure
+38788	| report					| (creative work) a written document describing the findings of some individual or group
+81610	| approved					| (status) generally or especially officially judged acceptable or satisfactory
+90611	| final						| (status) conclusive in a process or progression
+34303	| draft						| (status) preliminary version of a written work 
+120500	| Afrihili					| (language) a constructed language designed in 1970 by Ghanaian historian K. A. Kumi Attobrah to be used as a lingua franca in all of Africa
+37342	| Afrikaans					| (language) a West Germanic language spoken in Southern Africa
+37193	| Ainu						| (language) a language family spoken by the Ainu people of northern Japan
+37284	| Albanian					| (language) the Indo-European language spoken by the people of Albania
+37106	| Aleut						| (language) the language spoken by the Aleut
+37325	| Old english				| (language) English prior to about 1100 AD
+37572	| Arabic					| (language) the Semitic language of the Arabs
+120006	| Aragonese					| (language) a Romance language spoken in several dialects by 10,000 to 30,000 people in the Pyrenees valleys of Aragon, Spain, primarily in the comarcas of Somontano de Barbastro, Jacetania, Alto Gállego, Sobrarbe, and Ribagorza/Ribagorça
+37471	| Avestan					| (language) an ancient Iranian language
+120007	| Aymara					| (language) a language spoken by the Aymara people of the Andes
+37305	| Bulgarian					| (language) a Slavic language spoken in Bulgaria
+37433	| Catalan					| (language) the Romance language spoken in Catalonia in eastern Spain (related to Spanish and Occitan)
+37196	| Chinese					| (language) any of the Sino-Tibetan languages spoken in China
+37396	| Welsh						| (language) a Celtic language of Wales
+37300	| Czech						| (language) the Slavic language of Czechs
+37348	| Danish					| (language) a Scandinavian language that is the official language of Denmark
+37332	| German					| (language) a West Germanic language that is mainly spoken in Central Europe
+37340	| Dutch						| (language) the West Germanic language of the Netherlands
+37312	| English					| (language) an Indo-European language belonging to the West Germanic branch
+37318	| Middle English			| (language) the English language spoken from about 1100 to 1450
+36948	| Esperanto					| (language) an artificial language based as far as possible on words common to all the European languages
+37371	| Estonian					| (language) the official language of Estonia
+37374	| Finnish					| (language) the official language of Finland
+37417	| French					| (language) the Romance language spoken in France and in countries colonized by France
+37421	| Middle French				| (language) the medieval Norman dialect of Old French spoken from 1340 to 1611 AD
+37427	| Galician					| (language) a language spoken in Galicia in northwestern Spain
+37334	| Middle High German		| (language) the German language spoken from about 1100 to 1500 AD
+37495	| Ancient Greek				| (language) the Greek language prior to the Roman Empire
+37488	| Modern Greek				| (language) the Hellenic branch of the Indo-European family of languages
+120501	| Croatian					| (language) the standardized variety of the Serbo-Croatian language used by Croats
+37378	| Hungarian					| (language) the official language of Hungary (also spoken in Rumania)
+37349	| Icelandic					| (language) a Scandinavian language that is the official language of Iceland
+37413	| Italian					| (language) the Romance language spoken in Italy
+37193	| Japanese					| (language) the language (usually considered to be Altaic) spoken in Japan
+37192	| Korean					| (language) the Altaic language spoken by Koreans
+37436	| Ladin						| (language) a Romance language of the Rhaeto-Romance subgroup, mainly spoken in the Dolomite Mountains in Northern Italy in the provinces of South Tyrol, Trentino, and Belluno, by the Ladin people
+37404	| Latin						| (language) a classical language belonging to the Italic branch of the Indo-European languages
+37309	| Latvian					| (language) the official language of Latvia
+120005	| Limburgan					| (language) a group of East Low Franconian language varieties spoken in the Limburg and Rhineland regions, along the Dutch–Belgian–German border
+120008	| Lingala					| (language) a Bantu language spoken throughout the northwestern part of the Democratic Republic of the Congo and a large part of the Republic of the Congo, as well as to some degree in Angola and the Central African Republic
+37308	| Lithuanian				| (language) the official language of Lithuania
+37298	| Polish					| (language) the Slavic language of Poland
+37426	| Portuguese				| (language) the Romance language spoken in Portugal and Brazil
+37438	| Romanian					| (language) an eastern Romance language spoken in Romania
+37295	| Russian					| (language) the Slavic language that is the official language of Russia
+120009	| Serbian					| (language) the official language of Serbia and one of the official languages of Bosnia and Herzegovina
+37302	| Serbo-croat				| (language) the Slavic language of the Serbs and Croats
+37301	| Slovenian					| (language) the Slavic language of Slovenes
+37429	| Spanish					| (language) the Romance language spoken in most of Spain and the countries colonized by Spain
+37353	| Swedish					| (language) a Scandinavian language that is the official language of Sweden and one of two official languages of Finland
+37242	| Thai						| (language) the official language of Thailand and the first language of the Central Thai people
+37174	| Turkish					| (language) the most widely spoken of the Turkic languages
+37297	| Ukrainian					| (language) the Slavic language spoken in the Ukraine
+37251	| Vietnamese				| (language) the Mon-Khmer language spoken in Vietnam
+34892	| file						| (computer science) a file maintained in computer-readable form
+118340	| all rights reserved		| (license) a formal requirement for copyright notice that indicates that the copyright holder reserves, or holds for their own use, all the rights provided by copyright law under one specific copyright treaty
+118342	| creative commons by		| (license) the Creative Commons licence that allows one to share and remix (create derivative works), even for commercial use, so long as attribution is given
+118343	| creative commons by-sa	| (license) the Creative Commons licence that allows one to share as it is, so long as attribution is given	
+118344	| creative commons by-nc	| (license) the Creative Commons licence that allows one to remix (create derivative works), so long as attribution is given
+118345	| creative commons by-nd	| (license) the Creative Commons licence that allows for commercial use, so long as attribution is given
+118346	| creative commons by-nc-sa	| (license) the Creative Commons licence that allows one to share as it is, so long as attribution is given
+118347	| creative commons by-nc-nd	| (license) the Creative Commons licence that allows one to share, so long as attribution is given
+34682	| abstract					| (version) a sketchy summary of the main points of an argument or theory
+118337	| preprint					| (version) a digital draft of a scholarly article before being peer-reviewed
+118338	| postprint					| (version) a digital draft of a scholarly article after it has been peer-reviewed
+118339	| editorial version			| (version) the final version of a peer-reviewed scholarly article in the publishing layout

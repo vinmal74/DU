@@ -1,0 +1,167 @@
+118		| persona						| un essere umano
+90013	| maschio						| (genere) concernente il sesso maschile
+90019	| femmina						| (genere) concernente il sesso femminile
+52974	| rettore						| (ruolo) il professore eletto alla carica di responsabile di un ateneo
+118274	| prorettore					| (ruolo) una persona incaricata a rappresentare o agire in vece del rettore in un ambito di attività accademiche di ampio respiro
+118275	| delegato del rettore			| (ruolo) una persona incaricata a rappresentare o agire in vece del rettore in un ambito accademico specifico
+53485	| direttore						| (ruolo) il responsabile della gestione di un dipartimento o direzione, progetto o produzione
+118272	| direttore vicario				| (ruolo) la persona incaricata a rappresentare o agire in vece del direttore
+56251	| presidente					| (ruolo) il principale leader di un'azienda o società
+57945	| vicepresidente				| (ruolo) la persona incaricata a rappresentare o agire in vece del presidente
+37		| componente					| (ruolo) ciascuna delle persone che formano un gruppo, una collettività, un'associazione e simili
+118270	| rappresentante istituzionale	| (ruolo) un rappresentante di una istituzione
+53487	| decano						| (ruolo) il più anziano dei componenti di un gruppo
+54485	| responsabile					| (ruolo) una persona incaricata dall'organizzazione per gestire un'unità organizzativa
+118271	| vice responsabile				| (ruolo) la persona incaricata a rappresentare o agire in vece del responsabile
+54235	| direttore generale			| (ruolo) il direttore più alto in grado ed esecutore delle decisioni del consiglio di amministrazione
+53589	| direttore amministrativo		| (ruolo) chi dirige una azienda, compagnia o società
+53282	| coordinatore					| (ruolo) la persona responsabile del coordinamento delle attività
+118273	| vice coordinatore				| (ruolo) la persona incaricata a rappresentare o agire in vece del coordinatore
+56850	| segretario					| (ruolo) una persona che tiene registri, prende appunti e gestisce il lavoro d'ufficio generale
+52406	| assistente					| (ruolo) una persona che contribuisce al conseguimento di una necessità o obiettivo
+118260	| assistente alla didattica		| (ruolo) un assistente assegnato ad attività di supporto alla didattica
+52183	| affiliato						| (ruolo) una persona affiliata ad una certa organizzazione o unità organizzativa
+53826	| iscritto						| (ruolo) una persona iscritta ad un corso di studio
+57580	| docente						| (ruolo) una persona la cui occupazione è l'insegnamento
+56316	| professore					| (ruolo) una persona che insegna in un'università o scuola secondaria
+54173	| professore ordinario			| (ruolo) un professore di prima fascia in una università
+52409	| professore associato			| (ruolo) un professore di seconda fascia in una università
+118253	| professore straordinario		| (ruolo) un professore senza cattedra o subordinato ad un professore con cattedra
+118254	| professore aggregato			| (ruolo) un professore con un coinvolgimento limitato nel tempo o nelle attività accademiche
+53787	| professore emerito			| (ruolo) un professore con titolo onorifico che è andato in pensione
+118256	| docente a contratto			| (ruolo) un professore assunto a tempo determinato
+57983	| visiting professor			| (ruolo) un professore in visita da altra università a fini di insegnamento o ricerca
+56569	| ricercatore					| (ruolo) una persona che svolge attività di ricerca
+118258	| ricercatore a contratto		| (ruolo) un ricercatore assunto a tempo determinato
+118259	| ricercatore tenure-track		| (ruolo) un ricercatore che dopo un certo periodo può ambire ad una posizione a tempo determinato
+118261	| dottorando					| (ruolo) uno studente iscritto ad un corso di dottorato
+118266	| personale dirigente			| (ruolo) l'insieme delle persone che occupano un ruolo dirigenziale nell'organizzazione
+118264	| personale TA					| (ruolo) l'insieme delle persone che si occupano delle mansioni tecniche ed amministrative nell'organizzazione
+52406	| assistente					| (ruolo) una persona che contribuisce alla conduzione di un'attività o al conseguimento di un obiettivo
+53137	| collaboratore					| (ruolo) una persona che lavora con altri per un obiettivo comune
+118257	| collaboratore linguistico		| (ruolo) un collaboratore esperto, spesso madrelingua, impiegato in attività di insegnamento in lingua straniera
+54404	| ospite						| (ruolo) una persona in visita per un periodo di tempo limitato
+52176	| consulente					| (ruolo) un professionista a cui si ricorre per avere pareri su materia inerente alla sua professione
+118268	| tutor							| (ruolo) una persona che guida giovani studenti
+118269	| studente collaboratore		| (ruolo) uno studente al quale è stato assegnato un incarico di collaborazione per supportare attività connesse ai servizi dell'università
+118267	| stagista						| (ruolo) una persona che sta compiendo uno stage
+57408	| studente						| (ruolo) una persona iscritta ad un corso di studio
+118262	| ex studente					| (ruolo) una persona iscritta in passato ad un corso di studio
+55044	| laureato						| (ruolo) un ex studente che ha conseguito il titolo di studio
+118263	| dottore di ricerca			| (ruolo) una persona che ha conseguito il dottorato di ricerca
+120004	| professore onorario			| (ruolo) un titolo di professore conferito a personalità eminenti del mondo istituzionale, economico e culturale
+43544	| organizzazione				| complesso di persone organizzate per uno scopo
+44834	| università					| istituto di studi superiori che al termine dei corsi rilascia un titolo di laurea
+44331	| unità amministrativa			| un gruppo di persone facente parte di un organizzazione più grande
+45010	| organo istituzionale			| un'unità amministrativa con finalità istituzionali
+45016	| organo di governo				| un organo costituito da un insieme di persone che concorrono al governo istituzionale
+118249	| organo di supporto			| un organo costituito da un insieme di persone che supportano il governo istituzionale
+118252	| rettorato						| la divisione amministrativa di una università guidata dal rettore
+118251	| direzione						| una divisione amministrativa guidata da un dirigente
+44452	| divisione						| una divisione amministrativa di secondo livello
+45084	| ufficio						| una divisione amministrativa di livello base
+45017	| segreteria					| un ufficio che svolge mansioni di fiducia per conto di un'organizzazione
+43989	| dipartimento					| una divisione di un'università che opera per la realizzazione di obiettivi scientifici e didattici di ampio respiro disciplinare e caratterizzata da un adeguato livello di omogeneità di tematiche e metodi adottati
+118250	| centro di ateneo				| una divisione di un'università che opera per l'avvio di nuove iniziative fondate su progetti didattici e di ricerca in aree scientifiche non omogenee
+22482	| struttura di ricerca			| un'unità dove si esercitano attività di ricerca
+43691	| ente							| un'organizzazione nata per uno scopo preciso
+44811	| scuola di specializzazione	| una scuola che offre preparazione per ottenere titoli di studio post-laurea
+35792	| corso di studio				| il percorso di studi che porta al conseguimento di un titolo accademico
+43725	| azienda						| impresa industriale o commerciale e le persone che la costituiscono
+4553	| corso							| serie di lezioni volta all'insegnamento di una disciplina e ordinata secondo un criterio di progressivo apprendimento
+4100	| progetto						| una serie di attività intraprese o che si intende compiere
+118277	| sottomesso					| sottoposto a giudizio o considerazione
+118278	| esaminato						| valutato in modo critico
+87325	| in sospeso					| in attesa di conclusione o conferma
+81614	| rigettato						| giudicato inaccettabile
+87876	| finanziato					| provvisto di fondi
+87877	| non finanziato				| non provvisto di fondi
+84659	| concluso						| completato con successo o portato a termine
+34396	| tesi							| un trattato che avanza un nuovo punto di vista derivante dalla ricerca
+120013	| tesi triennale				| una tesi elaborata al termine di un corso di studio triennale, ovvero di primo livello
+120014	| tesi magistrale				| una tesi elaborata al termine di un corso di studio magistrale, ovvero di secondo livello
+120015	| tesi dottorale				| una tesi elaborata al termine di un corso di dottorato
+120016	| tesi di diploma				| una tesi elaborata al termine di un corso di diploma o una scuola di specializzazione
+16921	| opera							| un prodotto astratto dell'intelletto umano
+34408	| libro							| (opera) opera scritta che è stata pubblicata
+34764	| bibliografia					| (opera) un elenco di scritti con tempo e luogo di pubblicazione 
+34439	| catalogo						| (opera) un libro o un opuscolo contenente un elenco di cose
+34858 	| voce							| (opera) un elemento all'interno di un dizionario o enciclopedia
+34309	| sezione						| (opera) una parte autonoma di una composizione più ampia (scritta o musicale)
+34322	| capitolo						| (opera) una suddivisione di un'opera scritta
+118238	| articolo su rivista			| (opera) un articolo pubblicato su una rivista scientifica
+118239	| articolo in conferenza		| (opera) un articolo presentato ad una conferenza e pubblicato nei relativi atti della conferenza
+118240	| articolo poster				| (opera) un breve articolo presentato in una conferenza come un poster
+118349	| extended abstract				| (opera) un articolo breve, tipicamente recensito in forma sommaria, di solito presentato con un breve discorso a una conferenza scientifica
+34845	| brevetto						| (opera) documento che garantisce a un inventore alcuni diritti relativi allo sfruttamento economici di una invenzione
+21771	| architectural plan			| (opera) rappresentazione in scala ridotta di un edificio o di suoi singoli ambienti
+38788	| rapporto						| (opera) opera scritta che contiene i risultati di una ricerca
+81610	| approvato						| (status) giudicato ufficialmente come accettabile o soddisfacente
+90611	| definitivo					| (status) conclusivo in un processo o di avanzamento
+34303	| bozza							| (status) prima forma di un testo di un'opera d'arte
+120500	| afrihili						| (lingua) una lingua costruito progettato nel 1970 dallo storico ghanese K. A. Kumi Attobrah da utilizzare come lingua franca in tutta l'Africa
+37342	| afrikaans						| (lingua) una lingua germanica occidentale presente in Africa australe
+37193	| ainu							| (lingua) una famiglia di lingue parlata dal popolo Ainu del nord del Giappone
+37284	| albanese						| (lingua) la lingua indoeuropea parlata in Albania
+37106	| aleutino						| (lingua) lingua appartenente alla Famiglia linguistica eschimo-aleutina parlata dal popolo aleutino negli Stati Uniti d'America, nello stato dell'Alaska, e in Russia, nel Territorio della Kamcatka
+37325	| inglese antico				| (lingua) la più antica forma conosciuta della lingua inglese, parlata tra il V e il XII secolo
+37572	| arabo							| (lingua) una lingua semitica, del gruppo centrale, parlata dagli arabi
+120006	| aragonese						| (lingua) una lingua romanza parlata in Aragona settentrionale
+37471	| lingua avestica				| (lingua) un antica lingua iraniana
+120007	| aimara						| (lingua) una lingua parlata dal popolo Aymara delle Ande
+37305	| bulgaro						| (lingua) una lingua slava parlata in Bulgaria
+37433	| catalano						| (lingua) la lingua romanza parlata in Catalogna nella Spagna orientale (legata allo spagnolo e all'occitano)
+37196	| cinese						| (lingua) una qualsiasi delle lingue sino-tibetane parlate in Cina
+37396	| gallese						| (lingua) una lingua celtica del Galles
+37300	| ceco							| (lingua) la lingua slava dei cechi
+37348	| danese						| (lingua) una lingua scandinava che è la lingua ufficiale della Danimarca
+37332	| tedesco						| (lingua) una lingua germanica occidentale che è parlata principalmente in Europa centrale
+37340	| olandese						| (lingua) la lingua germanica occidentale dei Paesi Bassi
+37312	| inglese						| (lingua) una lingua indoeuropea appartenente al ramo germanico occidentale
+37318	| inglese medio					| (lingua) inglese parlato nel periodo compreso tra il 1100 ed il 1450
+36948	| esperanto						| (lingua) una lingua artificiale basato per quanto possibile su parole comuni a tutte le lingue europee
+37371	| estone						| (lingua) la lingua ufficiale dell'Estonia
+37374	| finlandese					| (lingua) la lingua ufficiale della Finlandia
+37417	| francese						| (lingua) la lingua romanza parlata in Francia e nei paesi colonizzati dalla Francia
+37421	| francese medio				| (lingua) francese parlato nel periodo compreso tra il 1340 ed il 1611
+37427	| galiziano						| (lingua) la lingua parlata in Galizia a nord-ovest della Spagna
+37334	| alto-tedesco medio			| (lingua) il tedesco parlato nel periodo compreso tra il 1100 ed il 1500
+37495	| greco antico					| (lingua) il greco parlato prima dell’Impero Romano
+37488	| greco moderno					| (lingua) il ramo ellenico della famiglia di lingue indoeuropee
+120501	| croato						| (lingua) la lingua ufficiale della Croazia e Bosnia ed Erzegovina
+37378	| ungherese						| (lingua) la lingua ufficiale dell'Ungheria (parlata anche in Romania)
+37349	| islandese						| (lingua) una lingua scandinava che è la lingua ufficiale dell'Islanda
+37413	| italiano						| (lingua) la lingua romanza parlata in Italia
+37193	| giapponese					| (lingua) la lingua (generalmente considerata altaica) parlata in Giappone
+37192	| coreano						| (lingua) la lingua altaica parlata dai coreani
+37436	| ladino						| (lingua) una lingua romanza del sottogruppo retoromantico, parlata principalmente nelle montagne dolomitiche nel nord Italia nelle province di Alto Adige, Trentino e Belluno, dal popolo ladino
+37404	| latino						| (lingua) una lingua classica appartenente al ramo italico delle lingue indoeuropee
+37309	| lettone						| (lingua) la lingua ufficiale della Lettonia
+120005	| limburghese					| (lingua) un gruppo di lingue della Franconia orientale bassa parlate nelle regioni del Limburgo e della Renania, lungo il confine olandese-belga-tedesco
+120008	| lingala						| (lingua) una lingua bantu parlata in tutta la parte nord-occidentale della Repubblica Democratica del Congo e in gran parte della Repubblica del Congo, nonché in una certa misura in Angola e nella Repubblica Centrafricana
+37308	| lituano						| (lingua) la lingua ufficiale della Lituania
+37298	| polacco						| (lingua) la lingua slava della Polonia
+37426	| portoghese					| (lingua) la lingua romanza parlata in Portogallo e Brasile
+37438	| rumeno						| (lingua) una lingua romanza orientale parlata in Romania
+37295	| russo							| (lingua) la lingua slava che è la lingua ufficiale della Russia
+120009	| serbo							| (lingua) la lingua ufficiale della Serbia e una delle lingue ufficiali della Bosnia ed Erzegovina
+37302	| serbo-croato					| (lingua) la lingua slava dei serbi e dei croati
+37301	| sloveno						| (lingua) la lingua slava degli sloveni
+37429	| spagnolo						| (lingua) la lingua romanza parlata nella maggior parte della Spagna e nei paesi colonizzati dalla Spagna
+37353	| svedese						| (lingua) una lingua scandinava che è la lingua ufficiale della Svezia e una delle due lingue ufficiali della Finlandia
+37242	| tailandese					| (lingua) la lingua ufficiale della Thailandia e la prima lingua del popolo thailandese centrale
+37174	| turco							| (lingua) la più parlata delle lingue turche
+37297	| ucraino						| (lingua) la lingua slava parlata in Ucraina
+37251	| vietnamita					| (lingua) la lingua mon-khmer parlata in Vietnam
+34892	| file							| (informatica) documento registrato nella memoria di un computer
+118340	| tutti i diritti riservati		| (licenza) un requisito formale per il diritto d'autore il quale specifica che il titolare dei diritti si riserva tutti i diritti garantiti dalla legge di uno specifico trattato sul diritto d'autore
+118342	| creative commons by			| (licenza) la licenza Creative Commons che permette di condividere l'opera e di creare lavori derivati, anche per uso commerciale, purchè venga data attribuzione
+118343	| creative commons by-sa		| (licenza) la licenza Creative Commons che permette di condividere l'opera così com'è, purchè venga data attribuzione
+118344	| creative commons by-nc		| (licenza) la licenza Creative Commons che permette di creare lavori derivati, anche per uso commerciale, purchè venga data attribuzione
+118345	| creative commons by-nd		| (licenza) la licenza Creative Commons che permette l'uso commerciale, purchè venga data attribuzione
+118346	| creative commons by-nc-sa		| (licenza) la licenza Creative Commons che permette di condividere l'opera così com'è, purchè venga data attribuzione
+118347	| creative commons by-nc-nd		| (licenza) la licenza Creative Commons che permette di condividere l'opera, purchè venga data attribuzione
+34682	| abstract						| (versione) un riassunto che fornisce i principali punti di un argomento o una teoria
+118337	| preprint						| (versione) una bozza digitale di un articolo scientifico prima di essere recensito da esperti
+118338	| postprint						| (versione) una bozza digitale di un articolo scientifico dopo essere stato recensito da esperti
+118339	| versione editoriale			| (versione) la versione finale di un articolo scientifico nel formato editoriale di pubblicazione

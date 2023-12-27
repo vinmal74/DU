@@ -1,0 +1,19 @@
+UNIT00001;TSOATAT000;University of Trento;;;
+UNIT000002;TOIATDR002;Academic Senate;UNIT00001;;
+UNIT000274;TOIATGI020;Ethical Committee;UNIT00001;;
+UNIT00012;TSOTATA007;Central Management Directorate;UNIT00001;management@unitn.it;1234
+UNIT00143;TSOTATA007;Human Resources Directorate;UNIT00001;hr@unitn.it;
+UNIT00237;TSOTATA009;Payroll office;UNIT00143;payroll@unitn.it;
+UNIT00477;TSODRDI002;Master in Law;UNIT08624;;
+UNIT00484;TSODRDI002;Master in Materials Engineering;UNIT08625;;
+UNIT00867;TSOTATA008;Employee Relations Division;UNIT00143;;
+UNIT00870;TSOTATA007;IT Directorate;UNIT00012;it@unitn.it;3412
+UNIT08624;TSODRRD001;School of Law;UNIT00001;;1111
+UNIT08625;TSODRRD001;School of Industrial Engineering;UNIT00001;;4321
+UNIT08628;TSODRRD001;School of Mathematics;UNIT00001;;1324
+UNIT08898;TSOTATA008;Industrial Engineering Staff;UNIT08625;ii.taff@unitn.it;
+UNIT08909;TSOTATA008;Law Staff;UNIT08624;law.staff@unitn.it;
+UNIT09626;TSOTATA009;Archive and Postal Services;UNIT00012;postalservices@unitn.it;
+UNIT09701;TSODRDI008;Doctorate School in Materials Engineering;UNIT08625;;
+UNIT12278;TSOTATA008;Law Division;UNIT00012;;
+UNIT12831;TSOTATA009;Recruitment Office;UNIT00143;;
