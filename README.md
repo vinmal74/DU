@@ -8,7 +8,7 @@ It is released as an Eclipse Java project.
 
 It supports data engineers in the creation of a multilingual knowledge graph 
 that is built from data extracted from multiple sources by means of ETL facilities. 
-In terms of complexity the entity matching and integration algorithm is constant 
+In terms of complexity the entity matching and integration algorithm is linear 
 in the number of entities to be integrated, i.e. it is O(n). 
 It makes use of very efficient data structures (hash tables) and runs entirely on RAM memory.
 
