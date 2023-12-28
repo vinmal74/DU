@@ -31,7 +31,7 @@ Ensuring information consistency across digital services.
 Cataloging & Classification Quarterly, 56, 592-606. http://dx.doi.org/10.1080/01639374.2018.1504847 
 
 Maltese, V (2024). Addressing digital transformation in universities: 
-how to effectively govern, trust and value your data. To apper in: 
+how to effectively govern, trust and value your data. Soon in: 
 Journal of Telecommunications and the Digital Economy, Special Issue on
 Emerging Technologies and Innovation for Digital Economy and Transformation
 
