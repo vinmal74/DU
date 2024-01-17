@@ -26,10 +26,15 @@ already pre-processed (for instance, as a result of a job that runs daily in ord
 up-to-date information) and that the result is available as CSV files:
 
 •	people.csv contains the people affiliated to the University, and in particular each row contains the unique identifier of the person, the surname, the name, the gender (M for male and F for female), the email address and the phone number;
+
 •	units.csv contains administrative units of the University, where each row contains the unique identifier of the unit, the identifier of the type of unit, the unit name, the identifier of the parent administrative unit on which it depends (in order to reconstruct the organization chart), the email address and the phone number of the unit;
+
 •	types_of_units.csv contains information about the types of administrative units of the University, and in particular each row contains the identifier of the type of unit, the name of the type and the identifier of the corresponding concept in the vocabularies (for instance as a result of a manual or automatic mapping);
+
 •	positions.csv contains information about the affiliations of each person, and in particular each row contains the identifier of the person, the identifier of the type of position and the identifier of the administrative unit;
+
 •	types_of_positions.csv contains information about the types of positions that can be appointed to people in the administrative Units of the University, and in particular each row contains the identifier of the type of position, the name of the type and the identifier of the corresponding concept in the vocabularies (for instance as a result of a manual or automatic mapping);
+
 •	courses.csv contains information about the courses offered by the University, and in particular each row contains the unique identifier of the degree program, the degree program name, the program type, the identifier of the course, the name of the course, the identifier of the department (an administrative unit), the identifier of the person who teaches the course, a field that is equal 0 in case the person is a professor and 1 in case the person is an assistant.
 
 The two vocabularies, in English and Italian, are stored in TXT files. Each row contains the identifier of the concept, the label and the definition in the corresponding language. They can be extended as needed.
