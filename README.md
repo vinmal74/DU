@@ -41,12 +41,12 @@ The two vocabularies, in English and Italian, are stored in TXT files. Each row 
 
 Selected papers:
 
-Maltese, V., & Giunchiglia, F. (2017). Foundations of Digital Universities. 
-Cataloging & Classification Quarterly, 55(1), 26-50. http://dx.doi.org/10.1080/01639374.2016.1245231 
+Maltese, V. (2024). Addressing digital transformation in universities: how to effectively govern, trust and value institutional data. Australian Journal of Telecommunications and the Digital Economy, v. 12, n. 1 (2024), p. 242-260, Special Issue on “Emerging Technologies and Innovation for Digital Economy and Transformation”. DOI: 10.18080/jtde.v12n1.808
 
-Maltese, V (2018). Digital transformation challenges for universities: 
-Ensuring information consistency across digital services. 
-Cataloging & Classification Quarterly, 56, 592-606. http://dx.doi.org/10.1080/01639374.2018.1504847 
+Maltese, V (2018). Digital transformation challenges for universities: Ensuring information consistency across digital services. 
+Cataloging & Classification Quarterly, 56, 592-606. DOI: http://dx.doi.org/10.1080/01639374.2018.1504847 
+
+Maltese, V., & Giunchiglia, F. (2017). Foundations of Digital Universities. Cataloging & Classification Quarterly, 55(1), 26-50. DOI: http://dx.doi.org/10.1080/01639374.2016.1245231 
 
 Maltese, V (2024). Addressing digital transformation in universities: 
 how to effectively govern, trust and value your data. Soon in: 
